@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m learning how to code<br>🌱 I’m currently working with Java<br>📫 How to reach me mzeisset@protonmail.com<br><br>
+🔭 I’m learning how to deal witch code<br>🌱 I’m currently working with Java<br>📫 How to reach me mzeisset@protonmail.com<br><br>
 
 
 # 💻 Tech Stack:
