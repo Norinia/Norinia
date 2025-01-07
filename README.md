@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m learning how to deal wich code<br>
+🏁 I started learning how to write code in 2023 <br>
 🌱 I’m currently working with Java<br>
 📫 How to reach me mzeisset@protonmail.com<br>
 
