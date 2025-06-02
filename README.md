@@ -13,24 +13,9 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+---
 ### 💾 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Norinia&limit=5&theme=holi&combine_all_yearly_contributions=true)
-
----
+--- 
 [![](https://visitcount.itsvg.in/api?id=Norinia&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Norinia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Norinia&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-[![](https://visitcount.itsvg.in/api?id=Norinia&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
