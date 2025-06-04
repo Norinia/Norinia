@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m learning how to deal wich code<br>
+🔭 I’m learning how to deal with code<br>
 ✨ I started learning programming in 2023<br>
 🌱 I’m currently working mostly with Java<br>
 📫 How to reach me mzeisset@protonmail.com<br>
